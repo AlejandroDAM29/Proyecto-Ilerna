@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.proyecto1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Proyecto1">
+        <activity android:name=".Informacion_desarrolladores"></activity>
+        <activity android:name="Asignaturas.SistemaGestionEmpresarial" />
+        <activity android:name="Asignaturas.ProgramacionServiciosProcesos" />
+        <activity android:name="Asignaturas.ProgramacionMultimedia" />
+        <activity android:name="Asignaturas.DesarrolloInterfaces" />
+        <activity android:name="Asignaturas.AccesoDatos" />
+        <activity android:name="Asignaturas.EmpresaIniciativaEmprendedora" />
+        <activity android:name="Asignaturas.DisenoInterfacesWeb" />
+        <activity android:name="Asignaturas.DespliegueAplicacionesWeb" />
+        <activity android:name="Asignaturas.DesarrolloWebServidor" />
+        <activity android:name="Asignaturas.DesarrolloWebCliente" />
+        <activity android:name="Asignaturas.FormacionOrientacionLaboral" />
+        <activity android:name="Asignaturas.EntornosDesarrollo" />
+        <activity android:name="Asignaturas.ProgramacionB" />
+        <activity android:name="Asignaturas.ProgramacionA" />
+        <activity android:name="Asignaturas.BaseDatosB" />
+        <activity android:name="Asignaturas.BaseDatosA" />
+        <activity android:name="Asignaturas.LenguajeMarcas" />
+        <activity android:name="Asignaturas.SistemasInformaticos" />
+        <activity android:name=".DAW" />
+        <activity android:name=".DAM" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

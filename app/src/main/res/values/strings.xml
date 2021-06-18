@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Mr. Tester</string>
+    <string name="textViewCursos">Ciclos formativos</string>
+    <string name="buttonDAW">Desarrollo aplicaciones web</string>
+    <string name="buttonDAM">Desarrollo aplicaciones multiplataforma</string>
+    <string name="buttonSistemasInformaticos">Sistemas informáticos</string>
+    <string name="buttonBaseDatosA">Base de datos A</string>
+    <string name="buttonBaseDatosB">Base de datos B</string>
+    <string name="buttonProgramacionA">Programación A</string>
+    <string name="buttonProgramacionB">Programación B</string>
+    <string name="buttonLenguajeMarcas">Lenguaje de marcas y sistemas de gestión de información</string>
+    <string name="buttonEntornosDesarrollo">Entornos de desarrollo</string>
+    <string name="buttonAccesoDatos">Acceso a datos</string>
+    <string name="buttonDesarrolloInterfaces">Desarrollo de interfaces</string>
+    <string name="buttonProgramacionMultimedia">Programación multimedia y dispositivos móviles</string>
+    <string name="buttonProgramacionServicios">Programación de servicios y procesos</string>
+    <string name="buttonSistemasGestion">Sistemas de gestión empresarial</string>
+    <string name="buttonDesarrolloWebCliente">Desarrollo web en entorno cliente</string>
+    <string name="buttonDesarrolloWebServidor">Desarrollo web en entorno servidor</string>
+    <string name="buttonDespliegueAppWeb">Despliegue de aplicaciones web</string>
+    <string name="buttonDiseño">Diseño de interfaces web</string>
+    <string name="buttonFOL">Formación y orientación laboral</string>
+    <string name="buttonEIE">Empresa e iniciativa emprendedora</string>
+    <string name="buttonUF1">UF 1</string>
+    <string name="buttonUF2">UF 2</string>
+    <string name="buttonUF3">UF 3</string>
+    <string name="buttonUF4">UF 4</string>
+    <string name="buttonUF5">UF 5</string>
+    <string name="buttonUF6">UF 6</string>
+
+    <string name="informacion">Version: 1.0
+    \n\nDesarrolladores:
+
+    \n\n - Alejandro Expósito Ortiz
+    \n   Linkedin: https://www.linkedin.com/in/alejandro-exposito-software-developer-a20875151/
+
+    \n\n - Nerea Victoria López Andrés
+
+    \n\n - Alfonso Javier Simón Buades
+    \n   Linkedin: https://www.linkedin.com/in/alfonso-simon/
+
+    \n\n - Francisco Alcalde Rodríguez
+    \n   Linkedin: https://www.linkedin.com/in/francisco-alcalde-rodr%C3%ADguez-700717143/
+
+    \n\n - Melisa</string>
+</resources>

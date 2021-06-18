@@ -1,0 +1,91 @@
+<!--Este XML nos servirá para crear el aspecto de la barra superior de la actividad-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".DAM">
+
+    <item android:id="@+id/salir"
+        android:title="salir"
+        app:showAsAction="never"
+        android:orderInCategory="2"/>
+
+
+    <item android:id="@+id/info"
+        android:title="Información"
+        android:icon="@android:drawable/ic_dialog_info"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1"/>
+    <item android:id="@+id/sistemas_informaticos"
+        android:title="Sistemas informaticos"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/bbdd_a"
+        android:title="Bases de datos A"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/bbdd_b"
+        android:title="Bases de datos B"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/programacion_a"
+        android:title="Programacion A"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/programacion_b"
+        android:title="Programacion B"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/lenguaje_marcas"
+        android:title="Lenguaje marcas"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/entornos_desarrollo"
+        android:title="Entornos desarrollo"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/acceso_datos"
+        android:title="Acceso a datos"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/interfaces"
+        android:title="Desarrollo interfaces"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/multimedia"
+        android:title="Multimedia"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/servicios_procesos"
+        android:title="Servicios y procesos"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/gestion_empresarial"
+        android:title="Gestion empresarial"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/FOL"
+        android:title="FOL"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/empresa_iniciativa"
+        android:title="Empresa iniciativa"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/desarrollo_web_cliente"
+        android:title="Web cliente"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/desarrollo_web_servidor"
+        android:title="Web servidor"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/despliegue_aplicaciones_web"
+        android:title="Despliegue web"
+        app:showAsAction="never"></item>
+
+    <item android:id="@+id/interfaces_web"
+        android:title="Interfaces web"
+        app:showAsAction="never"></item>
+
+
+</menu>
